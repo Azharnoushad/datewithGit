@@ -10,3 +10,14 @@ h1{
     background-color: #fff;
     font-size: 22px;
 }
+
+h3{
+    color: blue;
+    background: #fff;
+    text-transform: uppercase;
+}
+p{
+    color: red;
+    background-color: aqua;
+    font-size: 18px;
+}
