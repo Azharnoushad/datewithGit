@@ -11,6 +11,7 @@ h1{
     font-size: 22px;
 }
 
+
 h3{
     color: blue;
     background: #fff;
@@ -20,4 +21,9 @@ p{
     color: red;
     background-color: aqua;
     font-size: 18px;
+}
+h2{
+    margin: 25px;
+    color: aqua;
+    background: #000;
 }
