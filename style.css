@@ -10,3 +10,8 @@ h1{
     background-color: #fff;
     font-size: 22px;
 }
+h2{
+    margin: 25px;
+    color: aqua;
+    background: #000;
+}
